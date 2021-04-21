@@ -1,4 +1,8 @@
 # Case Study: Data Science Service?
-This case study uses the data file: 2021-04-05-lynchburg-vax-center-raw-data.txt. There is one question.
+This case study uses the data file: dsi-individual-service-periods.csv.
 
-#### Question: For each timeslot shown in the dataset. How many slots were there initially avaialable for vaxination?
+#### Questions:
+* What stages of existance do you see?
+* When did the School of Data Science begin?
+* When did the first MSDS degree award happen?
+* When was Phil Bourne hired?
