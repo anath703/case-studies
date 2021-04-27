@@ -3,8 +3,8 @@ This is a pedagogical repository. It contains exercises for students of all leve
 Every folder contains a stand-alone exercise. The types of exercises are described below and a table of contents is given.
 
 ## Types of Exercises
-* Question: This is a single question to be answered given some initial context and a data set.
-* Case Study: 
+* Question: This is a single question to be answered. Context and data are provided.
+* Case Study: A full description of a scenario along with data and resolution.
 
-## Cases
+## Questions
 1. [Vaccination appointment availability](https://github.com/UVADS/case-studies/tree/main/vaccine-location)
