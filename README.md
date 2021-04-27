@@ -7,4 +7,4 @@ Every folder contains a stand-alone exercise. The types of exercises are describ
 * Case Study: A full description of a scenario along with data and resolution.
 
 ## Questions
-1. [Vaccination appointment availability](https://github.com/UVADS/case-studies/tree/main/vaccine-location)
+1. [COVID-19 Appointments](https://github.com/UVADS/case-studies/tree/main/vaccine-location)
