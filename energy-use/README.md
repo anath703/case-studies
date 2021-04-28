@@ -6,4 +6,4 @@
 
 
 
-#### Question: How many nails do you expect to find in grid D4?
+#### Question: What type of property's energy usage is depicted in this data set?
