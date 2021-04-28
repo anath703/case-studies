@@ -1,8 +1,8 @@
 # Question: What property produced this graph?
 
 
-# figure option A
-![](https://github.com/UVADS/case-studies/blob/main/archaeology-site/grid-empty.png)
+# Data
+![](https://github.com/UVADS/case-studies/blob/main/energy-use/energy-usage.jpg)
 
 
 
