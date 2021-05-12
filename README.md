@@ -4,6 +4,7 @@ Every folder contains a stand-alone exercise. The types of exercises are describ
 
 ## Types of Exercises
 * Question: This is a single question to be answered. Context and data are provided.
+* Challenge: Complete a task
 * Case Study: A full description of a scenario along with data and resolution.
 
 ## Questions
