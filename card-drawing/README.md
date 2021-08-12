@@ -5,7 +5,7 @@ Join me on a journey into the land of one v one zero-sum competition and hyperge
 There is a great open dataset available about the card game Magic the Gathering. In this game players draw cards from a deck and play a game with a winner and a loser. The rules of the game make the drawing of the cards align with a hypergeometric distribution. Let's have some fun.
 
 ## Data
-You can acquire the data here: https://www.17lands.com/card_ratings
+You can acquire the data here: https://www.17lands.com/public_datasets
 
 ## The prompt
 1. Read this article from a teammember at 17lands: https://www.17lands.com/blog/using_wr_data
